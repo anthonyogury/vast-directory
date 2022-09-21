@@ -1,0 +1,66 @@
+<VAST version="2.0">
+	<Ad id="1h41kg">
+		<InLine>
+			<AdSystem>Innovid Ads</AdSystem>
+			<AdTitle>
+				<![CDATA[ Certification Testing VPAID - MRAID - Click on Main copy (5/20/2016) ]]>
+			</AdTitle>
+      <Error>
+        <![CDATA[http://fake-tracking.com/error?code=[ERRORCODE]&_=[CACHEBUSTING]]]>
+      </Error>
+			<Impression>
+				<![CDATA[ http://fake-tracking.com/impression ]]>
+			</Impression>
+			<Creatives>
+				<Creative>
+					<Linear>
+						<Duration>00:00:15</Duration>
+						<TrackingEvents>
+							<Tracking event="start">http://fake-tracking.com/start</Tracking>
+							<Tracking event="firstQuartile">http://fake-tracking.com/firstquartile</Tracking>
+							<Tracking event="midpoint">http://fake-tracking.com/midpoint</Tracking>
+							<Tracking event="thirdQuartile">http://fake-tracking.com/thirdquartile</Tracking>
+							<Tracking event="complete">http://fake-tracking.com/complete</Tracking>
+
+              <Tracking event="mute">http://fake-tracking.com/mute</Tracking>
+              <Tracking event="unmute">http://fake-tracking.com/unmute</Tracking>
+              <Tracking event="close">http://fake-tracking.com/close</Tracking>
+              <Tracking event="pause">http://fake-tracking.com/pause</Tracking>
+              <Tracking event="resume">http://fake-tracking.com/resume</Tracking>
+              <Tracking event="rewind">http://fake-tracking.com/rewind</Tracking>
+              <Tracking event="skip">http://fake-tracking.com/skip</Tracking>
+              <Tracking event="playerExpand">http://fake-tracking.com/playerExpand</Tracking>
+              <Tracking event="playerCollapse">http://fake-tracking.com/playerCollapse</Tracking>
+
+
+              <Tracking event="acceptInvitationLinear">http://fake-tracking.com/acceptInvitationLinear</Tracking>
+              <Tracking event="creativeView">http://fake-tracking.com/creativeView</Tracking>
+              <Tracking event="acceptInvitation">http://fake-tracking.com/acceptInvitation</Tracking>
+              <Tracking event="collapse">http://fake-tracking.com/collapse</Tracking>
+
+						</TrackingEvents>
+
+            <VideoClicks>
+              <ClickThrough id="6b17f1d3002f294817a989d002153f57fd9efeb7">http://fake-tracking.com/clickThrough</ClickThrough>
+
+              <ClickTracking>
+                <![CDATA[ http://fake-tracking.com/click ]]>
+              </ClickTracking>
+              <CustomClick>
+                <![CDATA[ http://fake-tracking.com/customClick ]]>
+              </CustomClick>
+            </VideoClicks>
+
+						<MediaFiles>
+							<MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="533" scalable="true" maintainAspectRatio="true">
+              <![CDATA[
+              https://fake.com/video.mp4
+              ]]>
+              </MediaFile>
+						</MediaFiles>
+					</Linear>
+				</Creative>
+			</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
