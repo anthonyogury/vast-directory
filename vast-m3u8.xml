@@ -1,0 +1,50 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<VAST version="4.1">
+<Ad id="1664468403819">
+<InLine>
+<AdSystem>
+<![CDATA[ Ogury Admin Adserver ]]>
+</AdSystem>
+<AdServingID>
+<![CDATA[ Ogury-6349e9c3-e578-41f7-be98-23c82d9f4265 ]]>
+</AdServingID>
+<AdTitle>
+<![CDATA[ AdTnT_Lamp_Vast_Tag_QA ]]>
+</AdTitle>
+<Description>
+<![CDATA[ AdTnT_Lamp_Vast_Tag_QA ]]>
+</Description>
+<Impression>
+<![CDATA[
+https://ad.doubleclick.net/ddm/trackimp/N1505470.4068858OGURY-TEST-01/B28680437.347839464;dc_trk_aid=539040026;dc_trk_cid=179421849;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755};ltd=?
+]]>
+</Impression>
+<Creatives>
+<Creative>
+<UniversalAdId idRegistry="unknown">
+<![CDATA[ unknown ]]>
+</UniversalAdId>
+<Linear>
+<Duration>
+<![CDATA[ 00:00:15 ]]>
+</Duration>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[
+https://ad.doubleclick.net/ddm/trackclk/N1505470.4068858OGURY-TEST-01/B28680437.347839464;dc_trk_aid=539040026;dc_trk_cid=179421849;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd=
+]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="97" width="256" height="144" type="application/x-mpegURL">
+<![CDATA[
+https://medias.presage.io/medias/videos/1876c1c4-47e9-461e-b2a9-8188c9b42c8f.mp4-transcoded/playlist.m3u8
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
