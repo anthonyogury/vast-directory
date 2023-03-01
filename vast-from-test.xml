@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+  <Ad id="f958b1896f1a71b3db564077a2ee73493cf3d57d">
+    <InLine>
+      <AdSystem version="1.0">Smadex</AdSystem>
+      <AdTitle>
+        <![CDATA[[EXTERNAL] External video]]>
+      </AdTitle>
+      <Description>
+        <![CDATA[]]>
+      </Description>
+      <Impression>
+        https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=impression
+      </Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:05</Duration>
+            <TrackingEvents>
+              <Tracking event="start">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=start</Tracking>
+              <Tracking event="firstQuartile">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=firstquartile</Tracking>
+              <Tracking event="midpoint">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=midpoint</Tracking>
+              <Tracking event="thirdQuartile">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=thirdquartile</Tracking>
+              <Tracking event="complete">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=complete</Tracking>
+              <Tracking event="mute">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=mute</Tracking>
+              <Tracking event="unmute">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=unmute</Tracking>
+              <Tracking event="close">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=close</Tracking>
+              <Tracking event="acceptInvitationLinear">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=acceptInvitationLinear</Tracking>
+              <Tracking event="creativeView">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=creativeView</Tracking>
+              <Tracking event="acceptInvitation">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=acceptInvitation</Tracking>
+              <Tracking event="collapse">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=collapse</Tracking>
+              <Tracking event="rewind">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=rewind</Tracking>
+              <Tracking event="skip">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=skip</Tracking>
+              <Tracking event="playerExpand">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=playerExpand</Tracking>
+              <Tracking event="playerCollapse">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=playerCollapse</Tracking>
+              <Tracking event="pause">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=pause</Tracking>
+              <Tracking event="resume">https://ms-external-inventory.deva.cloud.ogury.io/vid?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}&amp;e=resume</Tracking>
+            </TrackingEvents>
+            <VideoClicks>
+              <ClickThrough id="6b17f1d3002f294817a989d002153f57fd9efeb7">https://ms-external-inventory.deva.cloud.ogury.io/clk?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$}</ClickThrough>
+              <ClickTracking>
+                <![CDATA[ https://ms-external-inventory.deva.cloud.ogury.io/ClickTracking?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$} ]]>
+              </ClickTracking>
+              <CustomClick>
+                <![CDATA[ https://ms-external-inventory.deva.cloud.ogury.io/CustomClick?t={$timestamp$}&amp;imp={$IMPID$}&amp;oc_id=24610&amp;ak=1&amp;u_id={$GAID_RAW$}{$IDFA_RAW$}{$WPID_RAW$}&amp;u_os={$DEVICE_OS$}&amp;u_a={$USER_AGENT$}&amp;g_city={$CITY_NAME$}&amp;g_lat={$LAT$}&amp;g_long={$LONG$}&amp;a_b={$APP_BUNDLE$}&amp;a_n={$APP_NAME$} ]]>
+              </CustomClick>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile type="video/webm">
+                <![CDATA[data:video/webm;base64,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]]>
+              </MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+        <Creative>
+          <CompanionAds required="none">
+            <Companion width="720" height="1080">
+              <StaticResource creativeType="image/gif">
+                <![CDATA[http://localhost:3090/end-screen.gif]]>
+              </StaticResource>
+              <CompanionClickThrough>
+                <![CDATA[http://localhost:3090/end-screen-click-through]]>
+              </CompanionClickThrough>
+              <CompanionClickTracking>
+                <![CDATA[http://localhost:3090/end-screen-click-tracking]]>
+              </CompanionClickTracking>
+            </Companion>
+          </CompanionAds>
+        </Creative>
+      </Creatives>
+      <AdVerifications>
+        <Verification vendor="iabtechlab.com-omid">
+          <JavaScriptResource apiFramework="omid">
+            <![CDATA[https://localhost/omid-verification-validation.js]]>
+          </JavaScriptResource>
+          <TrackingEvents>
+            <Tracking event="verificationNotExecuted">
+              <![CDATA[https://verification.com/trackingurl]]>
+            </Tracking>
+          </TrackingEvents>
+          <VerificationParameters>
+            <![CDATA[verification params key value pairs]]>
+          </VerificationParameters>
+        </Verification>
+      </AdVerifications>
+    </InLine>
+  </Ad>
+</VAST>
