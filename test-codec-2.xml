@@ -1,0 +1,39 @@
+<VAST version="2.0">
+<Ad id="19d8d7b6">
+<InLine>
+<AdSystem>
+<![CDATA[ Test Codec ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Test Codec ]]>
+</AdTitle>
+<Description>
+<![CDATA[ Test Codec]]>
+</Description>
+<Error>
+<![CDATA[
+https://www.kwery.fr/?error=[ERRORCODE]
+]]>
+</Error>
+<Impression>
+<![CDATA[
+https://www.kwery.fr/?code=impression
+]]>
+</Impression>
+<Creatives>
+<Creative id="19d8d7b6" AdID="19d8d7b6">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents/>
+<AdParameters></AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" bitrate="97" width="256" height="144" type="video/mp4">
+<![CDATA[https://medias.presage.io/medias/videos/2310c31c-fa6d-4575-ae38-5afcb95b87d8.mp4-transcoded/offline.mp4]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
