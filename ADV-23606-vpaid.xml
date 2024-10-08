@@ -1,0 +1,83 @@
+<VAST version="3.0">
+<Ad id="4371_50487">
+<InLine>
+<AdSystem>HyperTv</AdSystem>
+<AdTitle>
+<![CDATA[ Story 1 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=489961.99899520446213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="34388c7a-ac72-4bfd-8950-1ef4f9b27e67" AdID="34388c7a-ac72-4bfd-8950-1ef4f9b27e67">
+<Linear>
+<Duration>00:00:00</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=448707.24044936727213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=304579.0293479882213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=start ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=474992.78502005927213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=midpoint ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=242798.9292369588213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=firstQuartile ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=893687.085935625213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=thirdQuartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=183028.33485748194213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=complete ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=478516.78010586894214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=mute ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=947886.3063020948214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=unmute ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=254751.2990997487214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=pause ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=69008.30669668956214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=96308.74182492755214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=resume ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=108455.42829803945214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=fullscreen ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=861515.7454774384214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=skip ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/trackClickThrough?eid=50487&tier=2&videoTime=0&fid=18195&impid=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&cid=4371&env=EMEA&category=vpaid&click_url=&evid=47703&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005 ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=164716.33984956658213&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=ClickThrough ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" width="960" height="540" scalable="true" type="application/javascript" apiFramework="VPAID">
+<![CDATA[ https://cdn10.connected-stories.com/client/static/assets/vpaid/vpaid.bundle.js ]]>
+</MediaFile>
+</MediaFiles>
+<AdParameters>
+<![CDATA[ {"adParameters":{"system_domain":"https://cs10.connected-stories.com","storyId":"50487","campaignId":"4371","connectedStoryId":"18195","preview":"0","weather":"0","geoInfo":"0","impressionUuid":"2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b","gdpr":"${GDPR}","gdpr_consent":"${GDPR_CONSENT_699}","dsp":"DV360","macros":{"cb":"timestamp]","dbmt":"${DC_DBM_TOKEN}","sysdom":"${ADSTXT_AD_SYSTEM_DOMAIN}","adsxt_pubid":"${ADSXT_PUBLISHER_ID}","bunid":"[app_bundle]","iordid":"${INSERTION_ORDER_ID}","cuu":"[click_force_redirect_url_enc]","cmp":"[campaignid]","crid":"[creative_id]","pubid":"","usid":"[page]","surlenc":"","aucid":"${AUCTION_ID}","invid":"${INVENTORY_SOURCE_EXTERNAL_ID}","excid":"${EXCHANGE_ID}"}}} ]]>
+</AdParameters>
+</Linear>
+</Creative>
+</Creatives>
+<Error>
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=791230.5657546459214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=error&label=[ERRORCODE] ]]>
+</Error>
+</InLine>
+</Ad>
+<Error>
+<![CDATA[ https://cs10.connected-stories.com/CSAnalyticsLogger/log/vastTrackingEvent?groupId=3&tier=2&cid=4371&fid=18195&imp=2c454b6c-8853-454a-ab7f-ac9c8cc7fc8b&storyId=50487&appId=&cname=TAG%20TEST%20OGURY&fname=Online%20video%2016%3A9%20(VPAID)&storyVersionId=47703&sname=Story%201&env=EMEA&ver=0.2&category=vpaid&cb=791230.5657546459214&htv_uuid=a6c1d2a7-175f-4580-bd72-79e37df39005&dsp=DV360&cb=timestamp]&bunid=[app_bundle]&cuu=[click_force_redirect_url_enc]&cmp=[campaignid]&crid=[creative_id]&pubid=&usid=[page]&surlenc=&action=error&label=[ERRORCODE] ]]>
+</Error>
+</VAST>
